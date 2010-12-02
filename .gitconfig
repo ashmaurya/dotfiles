@@ -1,0 +1,7 @@
+[user]
+	name = ashmaurya
+	email = ash@usercycle.com
+[alias]
+	co = checkout
+[core]
+	editor = mate -w
